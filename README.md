@@ -1,12 +1,6 @@
-# cookbook
+# NDIF Contributions
 
-Replications of mechanistic interpretability papers using [nnsight](https://nnsight.net) and [NDIF](https://ndif.us) for remote GPU execution.
-
-**Status:** Replications are in progress. Each implementation lives in `replications/paper_name/` with a notebook that runs in Google Colab.
-
-## Contributing
-
-Claim a paper from the spreadsheet, implement it using nnterp/nnsight, and submit a PR. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full process and requirements.
+Reimplementations of mechanistic interpretability papers using Bau Lab's [nnsight](https://nnsight.net) and [NDIF](https://ndif.us). Each implementation lives in `replications/paper_name/` with a notebook that runs in Google Colab.
 
 ## Getting Started
 
